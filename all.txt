@@ -971,3 +971,4 @@ AS13737 Interconnecx, LLC
 AS30823 aurologic GmbH
 AS202425 IP Volume inc (Speedify VPN)
 AS208172 Proton AG
+AS39405 Eurofiber France SAS (ProtonVPN/Tor)
