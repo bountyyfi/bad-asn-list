@@ -18,16 +18,18 @@ This list helps protect web applications and APIs from:
 | **Major Hosting** | Hetzner, Vultr, DigitalOcean, Linode, OVH, Leaseweb |
 | **Budget Hosting** | BuyVM, Hostinger, ColoCrossing, Contabo |
 | **Chinese Cloud** | Alibaba Cloud, Tencent Cloud, Huawei Cloud, Baidu Cloud |
-| **Eastern EU/RU** | PQ Hosting, Selectel, Hostry, AEZA, FairyHosting, ESTOXY |
+| **Eastern EU/RU** | PQ Hosting, Selectel, Hostry, AEZA, FairyHosting, ESTOXY, VEESP, Yuroit |
 | **Attack Sources** | H2NEXUS, Quality Network, FORTIS-AS, BNS-AS, GIGAHOST, R0CKET-CLOUD |
-| **Bulletproof Hosting** | Proton66, Chang Way, Qwins Ltd, NYBULA, CHEAPY-HOST |
+| **Bulletproof Hosting** | Proton66, PROSPERO, Chang Way, Qwins Ltd, NYBULA, CHEAPY-HOST, Media Land |
+| **Ukraine/Seychelles BPH** | VAIZ-AS, FDN3, E-RISHENNYA, TK-NET, ROZA-AS, SS-Net |
+| **Stark Industries** | PQ Hosting, MIRhosting, WorkTitans |
 | **Privacy Hosting** | IncogNET, Njalla |
 | **Proxy Services** | CroxyProxy, MEVSPACE |
 | **Scanners** | Censys, Shodan |
 
 ## Files
 
-- `all.txt` - Complete list of 977 blocked ASNs with organization names
+- `all.txt` - Complete list of 988 blocked ASNs with organization names
 
 ## Usage
 
