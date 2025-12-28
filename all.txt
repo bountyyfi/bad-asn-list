@@ -1004,3 +1004,10 @@ AS209605 UAB Host Baltic (BtHoster upstream)
 AS48031 Ivanov Vitaliy Sergeevich (spam Russia)
 AS200373 Drei-K-Tech-GmbH (infiniteproxies DDoS source)
 AS216246 Aeza Group Ltd (bulletproof hosting)
+AS41231 Canonical Group Limited
+AS23700 Linknet-Fastnet
+AS36903 MT-MPLS
+AS203380 Redcode Sociedad Anonima
+AS213541 Proxyseller Proxy
+AS10036 DLIVE
+AS198100 WAP.AC LTD
