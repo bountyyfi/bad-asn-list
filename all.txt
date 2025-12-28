@@ -1057,3 +1057,4 @@ AS3170 VeloxServ Communications Ltd
 AS137373 SUITEN Co., Ltd.
 AS40028 3z Canada Inc.
 AS42201 PVDataNet AB (PrivateVPN)
+AS30094 Giganews, Inc. (VyprVPN/Golden Frog)
