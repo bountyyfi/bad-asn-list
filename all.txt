@@ -1036,3 +1036,5 @@ AS17561 Plainproxies (3xK Tech)
 AS132817 Webshare Proxy
 AS64267 Rayobyte Proxy
 AS131642 Rapidseedbox Proxy
+AS198605 Gen Digital (HMA VPN / Avast)
+AS197854 Mullvad VPN
