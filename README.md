@@ -58,7 +58,8 @@ Submit a PR to add missing ASNs. Include:
 
 ## Related
 
-- [Lonkero](https://github.com/bountyyfi/lonkero) - Security scanner by BountyFi
+- [Lonkero](https://lonkero.bountyy.fi/en) - Security scanner
+- [BountyY](https://bountyy.fi) - Bug bounty platform
 
 ## License
 
