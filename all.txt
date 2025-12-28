@@ -950,3 +950,14 @@ AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.
 AS58519 Cloud Computing Corporation (Alibaba)
 AS45096 Shenzhen Tencent Computer Systems
 AS55967 Beijing Baidu Netcom Science Technology Co., Ltd.
+AS48753 AVA HOST SRL
+AS49282 F-Secure Freedome VPN
+AS213702 Qwins Ltd (bulletproof hosting)
+AS198953 Proton66 OOO (bulletproof hosting)
+AS401116 NYBULA (bulletproof hosting)
+AS401120 CHEAPY-HOST (bulletproof hosting)
+AS215540 Global Connectivity Solutions LLP
+AS401110 Sovy Cloud Services
+AS209847 WorkTitans B.V.
+AS57523 Chang Way Technologies Co. Limited (bulletproof hosting)
+AS207566 Chang Way Technologies Co. Limited
