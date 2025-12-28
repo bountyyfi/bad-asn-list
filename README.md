@@ -59,7 +59,7 @@ Submit a PR to add missing ASNs. Include:
 ## Related
 
 - [Lonkero](https://lonkero.bountyy.fi/en) - Security scanner
-- [BountyY](https://bountyy.fi) - Bug bounty platform
+- [BountyY](https://bountyy.fi) - Penetration testing & cybersecurity
 
 ## License
 
