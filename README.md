@@ -138,6 +138,36 @@ def check_asn():
         abort(403)
 ```
 
+### iptables / nftables
+
+```bash
+#!/bin/bash
+# Requires: ipset, whois or bgpq4
+
+# Create ipset
+ipset create bad-asns hash:net
+
+# Fetch prefixes for each ASN and add to ipset
+while read -r line; do
+  asn=$(echo "$line" | grep -oE '^AS[0-9]+')
+  [ -z "$asn" ] && continue
+
+  # Using bgpq4 (faster, recommended)
+  bgpq4 -4 -l pfx "$asn" | grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/[0-9]+' | \
+    while read prefix; do
+      ipset add bad-asns "$prefix" 2>/dev/null
+    done
+done < all.txt
+
+# Block with iptables
+iptables -I INPUT -m set --match-set bad-asns src -j DROP
+iptables -I FORWARD -m set --match-set bad-asns src -j DROP
+
+# Or with nftables
+# nft add set inet filter bad-asns { type ipv4_addr; flags interval; }
+# nft add rule inet filter input ip saddr @bad-asns drop
+```
+
 ### Parse the list
 
 ```bash
