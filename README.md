@@ -21,7 +21,7 @@ This list helps protect web applications and APIs from:
 | **Eastern EU/RU** | PQ Hosting, Selectel, Hostry, AEZA, FairyHosting, ESTOXY, VEESP, Yuroit |
 | **Attack Sources** | H2NEXUS, Quality Network, FORTIS-AS, BNS-AS, GIGAHOST, R0CKET-CLOUD |
 | **Bulletproof Hosting** | Proton66, PROSPERO, Chang Way, Qwins Ltd, NYBULA, CHEAPY-HOST, Media Land |
-| **Ukraine/Seychelles BPH** | VAIZ-AS, FDN3, E-RISHENNYA, TK-NET, ROZA-AS, SS-Net |
+| **Ukraine/Seychelles BPH** | VAIZ-AS, FDN3, E-RISHENNYA, TK-NET, ROZA-AS, SS-Net, ELITETEAM/1337TEAM |
 | **Stark Industries** | PQ Hosting, MIRhosting, WorkTitans |
 | **CrazyRDP Network** | Delis LLC, EKABI, Zhongguancun, Limenet, Sovy Cloud |
 | **FIN7/Ransomware** | SmartApe, Flyservers, Alviva |
@@ -31,7 +31,7 @@ This list helps protect web applications and APIs from:
 
 ## Files
 
-- `all.txt` - Complete list of 996 blocked ASNs with organization names
+- `all.txt` - Complete list of 1000 blocked ASNs with organization names
 
 ## Usage
 
