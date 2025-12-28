@@ -817,7 +817,7 @@ AS200039 HydraCommunications Ltd
 AS200147 HostingTechniques Limited
 AS200532 LLP"Kompaniya Hoster.KZ"
 AS200904 FOXCLOUDLLP
-AS201011 AS33891Netzbetrieb GmbH
+AS201011 Core-Backbone GmbH
 AS201200 SuperHosting.BGLtd.
 AS201449 DigitalAbsolut Business - Servidor, Virtualizacao, Cluster, Datacenters e Telecomunicacoes, Lda
 AS201525 HZHosting Ltd
