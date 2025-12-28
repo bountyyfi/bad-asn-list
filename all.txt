@@ -1004,3 +1004,45 @@ AS209605 UAB Host Baltic (BtHoster upstream)
 AS48031 Ivanov Vitaliy Sergeevich (spam Russia)
 AS200373 Drei-K-Tech-GmbH (infiniteproxies DDoS source)
 AS216246 Aeza Group Ltd (bulletproof hosting)
+AS41231 Canonical Group Limited
+AS23700 Linknet-Fastnet
+AS36903 MT-MPLS
+AS203380 Redcode Sociedad Anonima
+AS213541 Proxyseller Proxy
+AS10036 DLIVE
+AS198100 WAP.AC LTD
+AS23470 ReliableSite.Net LLC
+AS134963 Alibaba Cloud (Singapore) Private Limited
+AS142036 Hosteons Pte. Ltd.
+AS214036 Ultahost, Inc.
+AS152390 Chinanet Jiangsu Province Backbone
+AS210731 Serverion BV
+AS211619 Lucidacloud Limited
+AS138608 Kaopu Cloud HK Limited
+AS210558 1337 Services GmbH
+AS202448 MVPS LTD
+AS64249 Akamai Technologies Inc
+AS50835 First Colo GmbH
+AS14956 Webair Internet Development Inc
+AS6698 SITA (Heathrow)
+AS136052 Cloudmatrix Limited
+AS21501 GTHost Inc
+AS60253 IVIT Ltd
+AS35048 Skyvera LLC
+AS214574 XNNET LLC
+AS208969 OctaSpace.io Network
+AS39486 NForce Entertainment B.V.
+AS17561 Plainproxies (3xK Tech)
+AS132817 Webshare Proxy
+AS64267 Rayobyte Proxy
+AS131642 Rapidseedbox Proxy
+AS198605 Gen Digital (HMA VPN / Avast)
+AS197854 Mullvad VPN
+AS19148 Golden Frog GmbH (VyprVPN)
+AS140952 Strong Technology LLC (Whitelabel VPN)
+AS205016 HERN Labs AB (Opera VPN)
+AS39832 Opera Norway AS (Opera VPN)
+AS39287 Privactually Ltd (Njalla VPN)
+AS59711 HZ Hosting Ltd (HostZealot EU)
+AS202015 HZ Hosting Ltd
+AS61046 HZ Hosting Ltd (HostZealot UK)
