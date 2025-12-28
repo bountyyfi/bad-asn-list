@@ -1020,8 +1020,7 @@ AS3258 xTom
 AS29073 QuasiNetworks
 AS29354 Lattelecom
 AS33491 Lumen Technologies
-AS33540 Unknown
-AS34233 Unknown
+AS34233 Superior B.V.
 AS34619 Cizgi Telekomunikasyon
 AS35017 Swiftway Sp. z o.o.
 AS35478 Bunea Telecom SRL
