@@ -961,3 +961,4 @@ AS401110 Sovy Cloud Services
 AS209847 WorkTitans B.V.
 AS57523 Chang Way Technologies Co. Limited (bulletproof hosting)
 AS207566 Chang Way Technologies Co. Limited
+AS50525 Privado Networks AG (PrivadoVPN)
