@@ -1047,3 +1047,4 @@ AS46253 IPVanish, Inc.
 AS397540 Windscribe Limited
 AS42675 Obehosting AB (AzireVPN)
 AS18747 IFX Networks (AzireVPN Argentina)
+AS6206 Netrouting B.V.
