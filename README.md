@@ -33,7 +33,7 @@ This list helps protect web applications and APIs from:
 
 ## Files
 
-- `all.txt` - Complete list of 1013 blocked ASNs with organization names
+- `all.txt` - Complete list of 1034 blocked ASNs with organization names
 
 ## Usage
 

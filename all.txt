@@ -1012,3 +1012,23 @@ AS213541 Proxyseller Proxy
 AS10036 DLIVE
 AS198100 WAP.AC LTD
 AS23470 ReliableSite.Net LLC
+AS134963 Alibaba Cloud (Singapore) Private Limited
+AS142036 Hosteons Pte. Ltd.
+AS214036 Ultahost, Inc.
+AS152390 Chinanet Jiangsu Province Backbone
+AS210731 Serverion BV
+AS211619 Lucidacloud Limited
+AS138608 Kaopu Cloud HK Limited
+AS210558 1337 Services GmbH
+AS202448 MVPS LTD
+AS64249 Akamai Technologies Inc
+AS50835 First Colo GmbH
+AS14956 Webair Internet Development Inc
+AS6698 SITA (Heathrow)
+AS136052 Cloudmatrix Limited
+AS21501 GTHost Inc
+AS60253 IVIT Ltd
+AS35048 Skyvera LLC
+AS214574 XNNET LLC
+AS208969 OctaSpace.io Network
+AS39486 NForce Entertainment B.V.
