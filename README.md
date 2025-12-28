@@ -23,13 +23,15 @@ This list helps protect web applications and APIs from:
 | **Bulletproof Hosting** | Proton66, PROSPERO, Chang Way, Qwins Ltd, NYBULA, CHEAPY-HOST, Media Land |
 | **Ukraine/Seychelles BPH** | VAIZ-AS, FDN3, E-RISHENNYA, TK-NET, ROZA-AS, SS-Net |
 | **Stark Industries** | PQ Hosting, MIRhosting, WorkTitans |
+| **CrazyRDP Network** | Delis LLC, EKABI, Zhongguancun, Limenet, Sovy Cloud |
+| **FIN7/Ransomware** | SmartApe, Flyservers, Alviva |
 | **Privacy Hosting** | IncogNET, Njalla |
 | **Proxy Services** | CroxyProxy, MEVSPACE |
 | **Scanners** | Censys, Shodan |
 
 ## Files
 
-- `all.txt` - Complete list of 988 blocked ASNs with organization names
+- `all.txt` - Complete list of 996 blocked ASNs with organization names
 
 ## Usage
 
