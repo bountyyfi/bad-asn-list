@@ -989,3 +989,55 @@ AS214505 Nuclearfallout Enterprises, Inc.
 AS393458 Nuclearfallout Enterprises, Inc.
 AS400475 Nuclearfallout Enterprises, Inc.
 AS401263 Nuclearfallout Enterprises, Inc.
+AS42973 M247 Ltd
+AS62371 Proton AG
+AS212537 Surfshark B.V.
+AS394711 ExpressVPN
+AS199917 CyberGhost S.R.L.
+AS206264 Evanzo e-commerce GmbH (Hide.me)
+AS396073 TorGuard
+AS44493 Perfect Privacy
+AS208312 TEFINCOM S.A. (NordVPN)
+AS209854 TEFINCOM S.A. (NordVPN)
+AS211612 Datacamp Limited
+AS206092 Datacamp Limited
+AS60729 Leaseweb Netherlands B.V.
+AS202422 G-Core Labs S.A.
+AS19994 Rackspace Hosting
+AS27647 Rackspace Hosting
+AS22384 Performive LLC
+AS62904 Eonix Corporation
+AS398493 Latitude.sh
+AS8849 Melbikomas UAB
+AS202306 Hostry Ltd
+AS48282 UAB Rakrejus (Kaunas)
+AS197540 netcup GmbH
+AS44477 Stark Industries Solutions Ltd (PQ Hosting)
+AS51396 Pfcloud UG
+AS35536 xTom
+AS8888 xTom
+AS3258 xTom
+AS29073 QuasiNetworks
+AS29354 Lattelecom
+AS33491 Lumen Technologies
+AS34233 Superior B.V.
+AS34619 Cizgi Telekomunikasyon
+AS35017 Swiftway Sp. z o.o.
+AS35478 Bunea Telecom SRL
+AS37640 CapeConnect
+AS37963 Alibaba Cloud
+AS38478 SunnyVision Limited
+AS44144 HostRoyale Technologies Pvt Ltd
+AS42159 TeleNet LLC
+AS44112 SpaceWeb Ltd
+AS53889 Micfo LLC
+AS55081 ServerMania Inc.
+AS63008 Contina
+AS61112 Akile
+AS131477 SNet
+AS202118 Go Hosting
+AS204601 Zomro B.V.
+AS204957 Green Floid LLC
+AS174 Cogent Communications
+AS398324 Censys, Inc.
+AS398705 Shodan.io
