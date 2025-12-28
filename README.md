@@ -25,13 +25,15 @@ This list helps protect web applications and APIs from:
 | **Stark Industries** | PQ Hosting, MIRhosting, WorkTitans |
 | **CrazyRDP Network** | Delis LLC, EKABI, Zhongguancun, Limenet, Sovy Cloud |
 | **FIN7/Ransomware** | SmartApe, Flyservers, Alviva |
+| **BtHoster Network** | Skynet Network, Inside Network, UAB Host Baltic |
+| **DDoS Sources** | Drei-K-Tech (infiniteproxies) |
 | **Privacy Hosting** | IncogNET, Njalla |
 | **Proxy Services** | CroxyProxy, MEVSPACE |
 | **Scanners** | Censys, Shodan |
 
 ## Files
 
-- `all.txt` - Complete list of 1000 blocked ASNs with organization names
+- `all.txt` - Complete list of 1006 blocked ASNs with organization names
 
 ## Usage
 
