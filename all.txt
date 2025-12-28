@@ -963,3 +963,7 @@ AS57523 Chang Way Technologies Co. Limited (bulletproof hosting)
 AS207566 Chang Way Technologies Co. Limited
 AS50525 Privado Networks AG (PrivadoVPN)
 AS33837 Fredrik Holmqvist (Tor exit node)
+AS63023 GTHost
+AS199218 Proton AG (ProtonVPN)
+AS58325 Hydra Communications Ltd
+AS18345 Servers Australia
