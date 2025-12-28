@@ -1032,7 +1032,6 @@ AS44144 HostRoyale Technologies Pvt Ltd
 AS42159 TeleNet LLC
 AS44112 SpaceWeb Ltd
 AS53889 Micfo LLC
-AS54113 Fastly, Inc.
 AS55081 ServerMania Inc.
 AS63008 Contina
 AS61112 Akile
