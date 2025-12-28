@@ -1043,3 +1043,6 @@ AS140952 Strong Technology LLC (Whitelabel VPN)
 AS205016 HERN Labs AB (Opera VPN)
 AS39832 Opera Norway AS (Opera VPN)
 AS39287 Privactually Ltd (Njalla VPN)
+AS59711 HZ Hosting Ltd (HostZealot EU)
+AS202015 HZ Hosting Ltd
+AS61046 HZ Hosting Ltd (HostZealot UK)
