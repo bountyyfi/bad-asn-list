@@ -972,3 +972,6 @@ AS30823 aurologic GmbH
 AS202425 IP Volume inc (Speedify VPN)
 AS208172 Proton AG
 AS39405 Eurofiber France SAS (ProtonVPN/Tor)
+AS201814 MEVSPACE sp. z o.o. (CroxyProxy)
+AS40663 IncogNET LLC
+AS205544 Leaseweb UK Limited

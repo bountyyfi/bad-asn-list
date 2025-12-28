@@ -25,7 +25,7 @@ This list helps protect web applications and APIs from:
 
 ## Files
 
-- `all.txt` - Complete list of 963 blocked ASNs with organization names
+- `all.txt` - Complete list of 977 blocked ASNs with organization names
 
 ## Usage
 
