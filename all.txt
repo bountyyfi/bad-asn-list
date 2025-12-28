@@ -943,3 +943,10 @@ AS202759 FairyHosting (RJ Network OU)
 AS3920 ESTOXY OU
 AS214503 R0CKET-CLOUD
 AS56655 GIGAHOST
+AS132203 Tencent Global
+AS133478 Tencent Cloud Computing (Beijing) Co., Ltd
+AS136907 Huawei Cloud Hong Kong
+AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.
+AS58519 Cloud Computing Corporation (Alibaba)
+AS45096 Shenzhen Tencent Computer Systems
+AS55967 Beijing Baidu Netcom Science Technology Co., Ltd.
