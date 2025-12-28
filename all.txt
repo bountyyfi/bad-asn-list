@@ -943,3 +943,35 @@ AS202759 FairyHosting (RJ Network OU)
 AS3920 ESTOXY OU
 AS214503 R0CKET-CLOUD
 AS56655 GIGAHOST
+AS132203 Tencent Global
+AS133478 Tencent Cloud Computing (Beijing) Co., Ltd
+AS136907 Huawei Cloud Hong Kong
+AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.
+AS58519 Cloud Computing Corporation (Alibaba)
+AS45096 Shenzhen Tencent Computer Systems
+AS55967 Beijing Baidu Netcom Science Technology Co., Ltd.
+AS48753 AVA HOST SRL
+AS49282 F-Secure Freedome VPN
+AS213702 Qwins Ltd (bulletproof hosting)
+AS198953 Proton66 OOO (bulletproof hosting)
+AS401116 NYBULA (bulletproof hosting)
+AS401120 CHEAPY-HOST (bulletproof hosting)
+AS215540 Global Connectivity Solutions LLP
+AS401110 Sovy Cloud Services
+AS209847 WorkTitans B.V.
+AS57523 Chang Way Technologies Co. Limited (bulletproof hosting)
+AS207566 Chang Way Technologies Co. Limited
+AS50525 Privado Networks AG (PrivadoVPN)
+AS33837 Fredrik Holmqvist (Tor exit node)
+AS63023 GTHost
+AS199218 Proton AG (ProtonVPN)
+AS58325 Hydra Communications Ltd
+AS18345 Servers Australia
+AS13737 Interconnecx, LLC
+AS30823 aurologic GmbH
+AS202425 IP Volume inc (Speedify VPN)
+AS208172 Proton AG
+AS39405 Eurofiber France SAS (ProtonVPN/Tor)
+AS201814 MEVSPACE sp. z o.o. (CroxyProxy)
+AS40663 IncogNET LLC
+AS205544 Leaseweb UK Limited

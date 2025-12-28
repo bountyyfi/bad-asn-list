@@ -17,13 +17,15 @@ This list helps protect web applications and APIs from:
 | **VPN Providers** | NordVPN, ExpressVPN, Surfshark, ProtonVPN, Mullvad, PIA, IPVanish, Windscribe, AzireVPN, PrivateVPN, VyprVPN |
 | **Major Hosting** | Hetzner, Vultr, DigitalOcean, Linode, OVH |
 | **Budget Hosting** | BuyVM, Hostinger, ColoCrossing, Contabo |
+| **Chinese Cloud** | Alibaba Cloud, Tencent Cloud, Huawei Cloud, Baidu Cloud |
 | **Eastern EU/RU** | PQ Hosting, Selectel, Hostry, AEZA, FairyHosting, ESTOXY |
 | **Attack Sources** | H2NEXUS, Quality Network, FORTIS-AS, BNS-AS, GIGAHOST, R0CKET-CLOUD |
+| **Bulletproof Hosting** | Proton66, Chang Way, Qwins Ltd, NYBULA, CHEAPY-HOST |
 | **Scanners** | Censys, Shodan |
 
 ## Files
 
-- `all.txt` - Complete list of 945 blocked ASNs with organization names
+- `all.txt` - Complete list of 977 blocked ASNs with organization names
 
 ## Usage
 
