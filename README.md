@@ -33,8 +33,7 @@ This list helps protect web applications and APIs from:
 
 ## Files
 
-- `all.txt` - Complete list of 1041 blocked ASNs with organization names
-- `scripts/` - Helper scripts for fetching and comparing ASNs
+- `all.txt` - Complete list of 1044 blocked ASNs with organization names
 
 ## Usage
 

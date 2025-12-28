@@ -1039,3 +1039,6 @@ AS131642 Rapidseedbox Proxy
 AS198605 Gen Digital (HMA VPN / Avast)
 AS197854 Mullvad VPN
 AS19148 Golden Frog GmbH (VyprVPN)
+AS140952 Strong Technology LLC (Whitelabel VPN)
+AS205016 HERN Labs AB (Opera VPN)
+AS39832 Opera Norway AS (Opera VPN)
