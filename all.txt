@@ -967,3 +967,7 @@ AS63023 GTHost
 AS199218 Proton AG (ProtonVPN)
 AS58325 Hydra Communications Ltd
 AS18345 Servers Australia
+AS13737 Interconnecx, LLC
+AS30823 aurologic GmbH
+AS202425 IP Volume inc (Speedify VPN)
+AS208172 Proton AG
