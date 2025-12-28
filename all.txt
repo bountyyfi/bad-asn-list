@@ -1053,3 +1053,4 @@ AS61292 Blix Solutions SG
 AS58955 Bangmod Enterprise Co., Ltd.
 AS3236 SERVER.UA LLC
 AS400587 Ryamer, LLC
+AS3170 VeloxServ Communications Ltd
