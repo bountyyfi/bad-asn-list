@@ -14,15 +14,16 @@ This list helps protect web applications and APIs from:
 
 | Category | Examples |
 |----------|----------|
-| **VPN Providers** | NordVPN, ExpressVPN, Surfshark, ProtonVPN, Mullvad |
+| **VPN Providers** | NordVPN, ExpressVPN, Surfshark, ProtonVPN, Mullvad, PIA, IPVanish, Windscribe, AzireVPN, PrivateVPN, VyprVPN |
 | **Major Hosting** | Hetzner, Vultr, DigitalOcean, Linode, OVH |
 | **Budget Hosting** | BuyVM, Hostinger, ColoCrossing, Contabo |
-| **Eastern EU/RU** | PQ Hosting, Selectel, Hostry |
+| **Eastern EU/RU** | PQ Hosting, Selectel, Hostry, AEZA, FairyHosting, ESTOXY |
+| **Attack Sources** | H2NEXUS, Quality Network, FORTIS-AS, BNS-AS, GIGAHOST, R0CKET-CLOUD |
 | **Scanners** | Censys, Shodan |
 
 ## Files
 
-- `all.txt` - Complete list of blocked ASNs with organization names
+- `all.txt` - Complete list of 945 blocked ASNs with organization names
 
 ## Usage
 
