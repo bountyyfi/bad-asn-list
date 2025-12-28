@@ -1038,3 +1038,4 @@ AS64267 Rayobyte Proxy
 AS131642 Rapidseedbox Proxy
 AS198605 Gen Digital (HMA VPN / Avast)
 AS197854 Mullvad VPN
+AS19148 Golden Frog GmbH (VyprVPN)

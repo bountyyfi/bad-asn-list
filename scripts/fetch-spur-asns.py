@@ -21,47 +21,77 @@ def get_current_asns():
     return asns
 
 # Known VPN/Proxy ASNs from spur.us context pages (extracted from searches)
+# Updated 2025-12-28 with comprehensive VPN provider list
 SPUR_ASNS = {
-    # VPN Providers
-    9009: "M247 Ltd (NordVPN, Urban VPN)",
+    # === Major VPN Providers ===
+    9009: "M247 Ltd (NordVPN, Urban VPN, Touch VPN, Snap VPN)",
     136787: "TEFINCOM S.A. (NordVPN)",
-    212238: "Datacamp Limited",
-    60068: "Datacamp Limited",
+    207137: "Owl Limited (NordVPN)",
+    25369: "Hydra Communications Ltd (NordVPN)",
+    62240: "Clouvider Limited (NordVPN, ExpressVPN)",
     209854: "Cyberzone S.A. (Surfshark)",
     199218: "Proton AG (ProtonVPN)",
-    25369: "Hydra Communications Ltd (NordVPN)",
-    62240: "Clouvider Limited (NordVPN)",
-    12876: "ONLINE S.A.S. / Scaleway (Gecko VPN)",
-    29302: "HostingServices Inc (Astrill VPN)",
-    198605: "Gen Digital (HMA VPN / Avast)",
+    212238: "Datacamp Limited (ProtonVPN, PrivateVPN)",
+    60068: "Datacamp Limited (ProtonVPN)",
+    49981: "WorldStream B.V. (ProtonVPN)",
+    206092: "Datacamp Limited (ExpressVPN)",
+    42831: "UK-2 Limited (ExpressVPN)",
+    29066: "VELCOM (ExpressVPN)",
     39351: "31173 Services AB (Mullvad)",
     11878: "tzulo, inc. (Mullvad)",
     197854: "Mullvad VPN AB",
     43357: "Owl Limited (Mullvad)",
-    206092: "Datacamp Limited (ExpressVPN)",
+    198605: "Gen Digital (HMA VPN / Avast)",
 
-    # Proxy Services
+    # === Secondary VPN Providers ===
+    12876: "ONLINE S.A.S. / Scaleway (Gecko VPN, Veepn)",
+    29302: "HostingServices Inc (Astrill VPN)",
+    46475: "Limestone Networks (TunnelBear)",
+    29838: "Atlantic Metro Communications (TunnelBear)",
+    8100: "QuadraNet (Windscribe)",
+    33387: "Nocix LLC (hide.me VPN)",
+    203020: "HostRoyale (Exitlag VPN)",
+    202422: "G-Core Labs S.A. (iTop VPN, VPN Super)",
+    53667: "PONYNET (Thunder VPN)",
+    21859: "Zenlayer Inc (Snap VPN)",
+    62756: "GTHost (Melon VPN, VPN Super)",
+
+    # === CyberGhost/Zenmate Network ===
+    174: "Cogent (CyberGhost, Zenmate) - major backbone, use carefully",
+    30633: "Leaseweb USA (CyberGhost)",
+
+    # === Privacy VPNs ===
+    # Perfect Privacy, Browsec, VyprVPN infrastructure
+    19148: "Golden Frog (VyprVPN)",
+
+    # === Free/Budget VPNs ===
+    # Hola, Thunder VPN, UFO VPN, Panda VPN, etc.
+    # These typically use major cloud providers
+
+    # === Proxy Services ===
     17561: "3xK Tech GmbH (Plainproxies)",
     132817: "Webshare Proxy",
     64267: "Rayobyte/NetNut",
     131642: "Rapidseedbox",
     43444: "Fine Proxy / BNS-AS",
+    50304: "Cohesity (Webshare Proxy)",
 
-    # Datacenter/Hosting (used by VPNs)
-    14061: "DigitalOcean (TunnelBear)",
-    29838: "Atlantic Metro Communications (TunnelBear)",
-    8100: "QuadraNet (Windscribe)",
-    33387: "Nocix LLC (HideMe VPN)",
-    13213: "UK-2 Limited",
-    16276: "OVH",
+    # === Datacenter/Hosting (heavy VPN usage) ===
+    14061: "DigitalOcean (TunnelBear, Speedify, Hola, Xvpn)",
+    16276: "OVH (Veepn, Xvpn, CyberGhost, Hola)",
     24940: "Hetzner Online GmbH",
-    20473: "The Constant Company (Vultr)",
+    20473: "The Constant Company / Vultr (TunnelBear)",
+    63949: "Akamai / Linode (Speedify)",
+    13213: "UK-2 Limited",
+    36352: "ColoCrossing (Mysterium VPN)",
 
-    # Additional from spur.us
-    203020: "HostRoyale (Exitlag VPN)",
-    10036: "DLIVE",
-    23700: "Linknet-Fastnet",
-    3303: "Swisscom (Tor exit)",
+    # === Bulletproof/Stark Industries Network ===
+    44477: "PQ Hosting Plus S.R.L. (Stark Industries)",
+    209847: "WorkTitans B.V. (Stark Industries successor)",
+    210644: "AEZA INTERNATIONAL LTD (Lantern VPN, Tor)",
+
+    # === Consumer ISPs (skip these) ===
+    # 3303: "Swisscom (Tor exit)" - consumer ISP, don't block
 }
 
 def main():
