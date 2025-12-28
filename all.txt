@@ -1041,3 +1041,8 @@ AS204957 Green Floid LLC
 AS174 Cogent Communications
 AS398324 Censys, Inc.
 AS398705 Shodan.io
+AS216025 Mullvad VPN AB
+AS45748 Private Internet Access (PIA)
+AS46253 IPVanish, Inc.
+AS397540 Windscribe Limited
+AS42675 Obehosting AB (AzireVPN)
