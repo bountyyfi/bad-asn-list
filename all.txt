@@ -230,7 +230,6 @@ AS7595 ReadyspaceNetwork Pte Ltd
 AS7598 ForcepointCloud Limited
 AS7850 iHighway.net,Inc
 AS7979 Servers.com,Inc
-AS8075 MicrosoftCorporation
 AS8455 SchubergPhilis B.V.
 AS8477 EchostarStudio Sp. z o.o.
 AS8556 LevantisAG
