@@ -2265,3 +2265,9 @@ AS44677 MTS PJSC (Russia)
 AS40966 L7GUARD Network (Russia)
 AS39337 JSC "Corp Soft" (Russia)
 AS35608 R-LINE 1 LLC (Russia)
+AS9808 China Mobile Communications Group Co., Ltd.
+AS197035 TVIN-INET, LLC
+AS12322 Free SAS
+AS3215 Orange S.A.
+AS31898 Oracle Corporation
+AS4134 CHINANET-BACKBONE
