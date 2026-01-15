@@ -2277,3 +2277,6 @@ AS58466 CHINANET Guangdong province network
 AS17621 China Unicom Shanghai network
 AS3462 Data Communication Business Group (Taiwan)
 AS207361 LLC Usergate (Russia)
+AS215672 MoeChuang Network Limited (Hong Kong)
+AS32167 LSHIY LLC (Hong Kong)
+AS137427 KIDC LIMITED (Hong Kong)
