@@ -2271,3 +2271,7 @@ AS12322 Free SAS
 AS3215 Orange S.A.
 AS31898 Oracle Corporation
 AS4134 CHINANET-BACKBONE
+AS4837 CHINA UNICOM China169 Backbone
+AS4847 China Networks Inter-Exchange
+AS58466 CHINANET Guangdong province network
+AS17621 China Unicom Shanghai network
