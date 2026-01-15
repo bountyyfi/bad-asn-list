@@ -2275,3 +2275,5 @@ AS4837 CHINA UNICOM China169 Backbone
 AS4847 China Networks Inter-Exchange
 AS58466 CHINANET Guangdong province network
 AS17621 China Unicom Shanghai network
+AS3462 Data Communication Business Group (Taiwan)
+AS207361 LLC Usergate (Russia)
