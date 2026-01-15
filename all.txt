@@ -2286,3 +2286,9 @@ AS36884 Wana Corporate
 AS40065 CNSERVERS LLC (Hong Kong)
 AS210976 Timeweb, LLP
 AS399334 Skysilk
+AS4808 China Unicom Beijing Province Network
+AS17633 ASN for Shandong Provincial Net of CT
+AS56046 China Mobile communications corporation
+AS4760 HKT Limited (Hong Kong)
+AS138997 Eons Data Communications Limited (Hong Kong)
+AS152320 GOALNOW NETWORK TECHNOLOGY CO., LIMITED (Hong Kong)
