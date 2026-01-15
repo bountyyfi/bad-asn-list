@@ -2281,3 +2281,4 @@ AS215672 MoeChuang Network Limited (Hong Kong)
 AS32167 LSHIY LLC (Hong Kong)
 AS137427 KIDC LIMITED (Hong Kong)
 AS401243 Komi LLC (Singapore)
+AS213438 ColocaTel Inc
