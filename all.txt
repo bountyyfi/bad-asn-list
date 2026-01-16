@@ -2303,3 +2303,4 @@ AS203446 SMARTNET LIMITED
 AS208323 Foundation for Applied Privacy
 AS215125 Church of Cyberology
 AS216475 FDCSERVERS.NET
+AS4538 China Education and Research Network Center
