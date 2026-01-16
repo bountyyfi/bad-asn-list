@@ -2293,3 +2293,12 @@ AS4760 HKT Limited (Hong Kong)
 AS138997 Eons Data Communications Limited (Hong Kong)
 AS152320 GOALNOW NETWORK TECHNOLOGY CO., LIMITED (Hong Kong)
 AS151407 (Hong Kong)
+AS906 DMIT Cloud Services
+AS18403 FPT Telecom Company (Vietnam)
+AS38136 KBRO network (Vietnam)
+AS41281 KeFF Networks Ltd
+AS56044 Hostkey B.V.
+AS136744 TRELLIAN-AS-AP Trellian Pty. Limited (Australia/Netherlands)
+AS203446 SMARTNET LIMITED
+AS208323 Foundation for Applied Privacy
+AS215125 Church of Cyberology
