@@ -1,7 +1,5 @@
 AS51167 Contabo GmbH
 AS141995 Contabo Asia Private Limited
-AS16276 OVH SAS
-AS35540 OVH SAS
 AS14061 DigitalOcean, LLC
 AS39690 DigitalOcean, LLC
 AS62567 DigitalOcean, LLC
