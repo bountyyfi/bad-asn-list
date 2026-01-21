@@ -2302,3 +2302,15 @@ AS208323 Foundation for Applied Privacy
 AS215125 Church of Cyberology
 AS216475 FDCSERVERS.NET
 AS4538 China Education and Research Network Center
+AS20326 TeraSwitch Networks Inc.
+AS26383 Baxet Group Inc.
+AS26548 PureVoltage Hosting Inc.
+AS42910 PremierDC Veri Merkezi Anonim Sirketi
+AS44486 Oliver Horscht is trading as "SYNLINQ"
+AS49791 Newserverlife LLC
+AS54600 PEG TECH INC
+AS56971 AS56971 Cloud
+AS59211 OneAsiaHost
+AS62005 BlueVPS OU
+AS137266 CHINATELECOM Hubei province Wuhan 5G network
+AS200651 FlokiNET ehf
