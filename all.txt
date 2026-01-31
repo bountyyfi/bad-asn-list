@@ -2316,3 +2316,5 @@ AS137266 CHINATELECOM Hubei province Wuhan 5G network
 AS200651 FlokiNET ehf
 AS29222 Infomaniak Network SA
 AS30983 MARWAN (Moroccan Academic Network)
+AS400619 AROSSCLOUD INC.
+AS46997 Black Mesa Corporation
