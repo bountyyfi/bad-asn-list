@@ -2314,3 +2314,4 @@ AS59211 OneAsiaHost
 AS62005 BlueVPS OU
 AS137266 CHINATELECOM Hubei province Wuhan 5G network
 AS200651 FlokiNET ehf
+AS29222 Infomaniak Network SA
