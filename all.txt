@@ -118,7 +118,6 @@ AS39798 MivoCloud SRL
 AS136557 Host Universal Pty Ltd
 AS56704 Farice ehf
 AS49981 WorldStream B.V.
-AS8473 Bahnhof AB
 AS206804 EstNOC OY
 AS60068 Datacamp Limited
 AS9009 M247 Europe SRL
@@ -135,7 +134,6 @@ AS58065 Packet Exchange Limited
 AS206446 CLOUD LEASE Ltd
 AS199524 G-Core Labs S.A.
 AS19318 Interserver, Inc
-AS28110 NAVEGALO S.A.
 AS51430 AltusHost B.V.
 AS61272 Informacines sistemos ir technologijos, UAB
 AS16247 M247 Ltd
@@ -143,7 +141,6 @@ AS396356 Latitude.sh
 AS133480 Intergrid Group Pty Ltd
 AS30058 FDCservers.net
 AS9678 HostingInside LTD.
-AS35432 Cablenet Communication Systems plc
 AS37518 Fiber Grid INC
 AS12417 Plus Hosting Grupa d.o.o.
 AS42831 UK Dedicated Servers Limited
@@ -219,7 +216,6 @@ AS8455 SchubergPhilis B.V.
 AS8477 EchostarStudio Sp. z o.o.
 AS8556 LevantisAG
 AS8972 HostEurope GmbH
-AS9166 CegekaNV
 AS9290 GoHosting
 AS9370 SAKURAInternet Inc
 AS9412 5GNETWORK OPERATIONS PTY LTD
@@ -243,8 +239,6 @@ AS13647 NetActuate,Inc
 AS13739 DatacenterIP, LLC
 AS13909 TechieHosting, Inc
 AS13926 StrongTechnology, LLC
-AS13955 EchostarBroadcasting Corporation
-AS14120 oneZeroFinancial Systems, LLC
 AS14127 IlandInternet Solutions Corporation
 AS14160 PremiumHosting, Inc
 AS14244 NSIHosting
@@ -270,9 +264,7 @@ AS16125 UABCherry Servers
 AS16262 DatacheapLLC
 AS16284 Inq.Digital Nigeria
 AS16397 EQUINIXBRASIL
-AS16535 EchostarPurchasing Corporation
 AS16628 DedFiberCo
-AS16862 OdessaCollege
 AS16973 T-FourServices S.A
 AS17019 JCHostInternet Services, LLC
 AS17216 DC74LLC
@@ -282,7 +274,6 @@ AS17881 InetHosting, Inc
 AS17918 AUSTRALIANCENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD
 AS18120 GeminiSoftware Solutions (P) Limited
 AS18450 WebNX,Inc
-AS18570 EchoStarBroadcasting Corperation
 AS18779 EGIHosting
 AS18978 EnzuInc
 AS19084 ColoUp
@@ -313,7 +304,6 @@ AS21159 NovoServeB.V.
 AS21217 SafeHost SA
 AS21321 NetuityNetworks Sp. z o.o.
 AS21859 ZenlayerInc
-AS22152 VTXTelecom
 AS22363 PowerhouseManagement, Inc
 AS22552 eSitedSolutions
 AS22611 InMotion Hosting, Inc
@@ -462,7 +452,6 @@ AS36970 IPARTNERSLIMITED
 AS37018 GalaxyBackbone PLC
 AS37088 VDTCOMMUNICATIONS LIMITED
 AS37153 Xneelo(Pty) Ltd
-AS37170 Universityof Lagos
 AS37209 HyperiaLimited
 AS37230 SwifttalkLimited
 AS37248 Phase3Telecom Limited
@@ -475,12 +464,10 @@ AS37472 NigerianCommunications Satellite Ltd
 AS37506 ZinoxTelecommunications Limited
 AS37521 InternetSolutions Nigeria Limited
 AS37540 WinrockNigeria Limited
-AS37661 NigerianResearch and Education Network Limited by Guarantee
 AS37692 NetStackLtd
 AS37714 BITFLUXCOMMUNICATIONS LIMITED
 AS38001 NewMediaExpress Pte Ltd
 AS38107 CDNetworks
-AS38279 InternationalOrganization for Migration
 AS38894 manageNETPty Ltd
 AS39020 ComviveServidores S.L.
 AS39326 HighSpeedOffice Limited
@@ -490,7 +477,6 @@ AS39458 RealHosts Limited
 AS39572 DataWebGlobal Group B.V.
 AS39704 CJ2Hosting B.V.
 AS39756 EASYHOSTSRL
-AS39839 DKHostmaster A/S
 AS40021 ContaboInc
 AS40156 TheOptimal Link Corporation
 AS40244 TurnkeyInternet Inc
@@ -504,7 +490,6 @@ AS40824 WZCommunications Inc
 AS40861 ParadiseNetworks LLC
 AS41062 ProstoHostingLTD
 AS41079 Cyber_FolksS.A.
-AS41369 ValttiKumppanit Oy
 AS41427 Datacenterd.o.o.
 AS41562 Host4allSarl
 AS41653 AquaRay SAS
@@ -548,11 +533,9 @@ AS45481 DigitalSense Hosting Pty Ltd
 AS45486 HostCorpInternet
 AS45577 IntervolvePty Ltd
 AS45671 ServersAustralia Pty. Ltd
-AS45693 Asia Pacific Network Information Centre
 AS45815 ESDSSoftware Solution Limited.
 AS45887 GPLHostLLC
 AS46177 SimpleCDNTechnologies, Inc
-AS46260 MEDHOST,Inc
 AS46261 QuickPacket,LLC
 AS46430 TELXInc
 AS46433 EBOUNDHOST.com
@@ -562,7 +545,6 @@ AS46816 DirectSpaceNetworks, LLC
 AS46873 HostColor
 AS46945 EliteHosts
 AS47143 TodayhostLimited
-AS47161 StadtwerkeFeldkirch
 AS47172 GreenhostBV
 AS47205 TeliaLietuva, AB
 AS47328 TrueRecords Inc
@@ -668,7 +650,6 @@ AS57043 HOSTKEYB.V.
 AS57169 EDISGmbH
 AS57230 AriaWeb Development LLC
 AS57286 GIGASHOSTING S.A.
-AS57345 Marquard& Bahls AG
 AS57363 CDNvideoLLC
 AS57682 TOVHOST VDS
 AS57752 NORMHOSTSAS
@@ -816,17 +797,13 @@ AS262978 Centrode Tecnologia Armazem Datacenter Ltda.
 AS262990 VIRTUALCENTER HOSTING TECNOLOGIA EIRELI
 AS263032 EMPIRESERVICOS DE INTERNET LTDA
 AS263237 PowerHostTelecom SPA
-AS327705 FederalUniversity of Technology, Akure(FUTA)
-AS327784 FidelityBank PLC
 AS327813 VIDOLUGroup Pty Ltd-Web4Africa
-AS327942 LANDMARKUNIVERSITY OMU-ARAN
 AS328035 Zeta-webNigeria Limited
 AS394256 TechFutures Interactive Inc
 AS394330 LTDBroadband LLC
 AS394380 LeasewebUSA, Inc
 AS395089 HextetSystems
 AS395111 KVCHOSTING.COMLLC
-AS395978 SANTACLARA VALLEY WATER DISTRICT PUBLIC FACILITIES FINANCING CORPORATION
 AS212477 RoyaleHosting BV
 AS213250 Dominic Scholz trading as ITP-Solutions GmbH & Co. KG (DeinServerHost)
 AS14586 Nuclearfallout Enterprises, Inc.
