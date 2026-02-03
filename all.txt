@@ -19,13 +19,6 @@ AS133795 The Constant Company, LLC (VULTR)
 AS24940 Hetzner Online GmbH
 AS213230 Hetzner Online GmbH
 AS212317 Hetzner Online GmbH
-AS15169 Google LLC
-AS396982 Google LLC
-AS14618 Amazon.com, Inc
-AS699 Amazon.com, Inc
-AS801 Amazon.com, Inc
-AS7224 Amazon.com, Inc
-AS16509 Amazon.com, Inc.
 AS38895 Amazon.com, Inc.
 AS62785 Amazon.com, Inc.
 AS47583 Hostinger International Limited
@@ -903,7 +896,6 @@ AS131477 SNet
 AS202118 Go Hosting
 AS204601 Zomro B.V.
 AS204957 Green Floid LLC
-AS174 Cogent Communications
 AS398324 Censys, Inc.
 AS398705 Shodan.io
 AS216025 Mullvad VPN AB
@@ -913,7 +905,6 @@ AS397540 Windscribe Limited
 AS42675 Obehosting AB (AzireVPN)
 AS18747 IFX Networks (AzireVPN Argentina)
 AS6206 Netrouting B.V.
-AS1299 Arelion (Telia Carrier)
 AS61292 Blix Solutions SG
 AS58955 Bangmod Enterprise Co., Ltd.
 AS3236 SERVER.UA LLC
