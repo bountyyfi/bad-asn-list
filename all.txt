@@ -155,7 +155,6 @@ AS141039 Packethub s.a.
 AS20278 Nexeon Technologies, Inc.
 AS35913 DediPath
 AS62240 Clouvider
-AS9335 CAT Telecom Public Company Limited
 AS25369 Hydra Communications Ltd
 AS197706 Keminet SHPK
 AS136787 TEFINCOM S.A.
@@ -173,9 +172,6 @@ AS48950 GLOBAL COLOCATION LIMITED
 AS131199 Nexeon Technologies, Inc.
 AS64200 VIVID-HOSTING LLC
 AS205119 TELEKS DOOEL Skopje
-AS4766 Korea Telecom
-AS38731 Vietel - CHT Compamy Ltd
-AS45899 VNPT Corp
 AS46805 Inter Connects Inc
 AS36352 ColoCrossing
 AS47810 Proservice LLC
@@ -201,7 +197,6 @@ AS7185 QuadraNet Internet Services
 AS6233 xTom
 AS1442 SureHostingInternet Solutions, Inc
 AS3223 VoxilityLLP
-AS3561 CenturyLinkCommunications, LLC
 AS3722 NetActuate,Inc
 AS3842 InMotion Hosting, Inc
 AS4250 AlentusCorporation
@@ -212,7 +207,6 @@ AS5577 rootSA
 AS6718 NAVCOMMUNICATIONS SRL
 AS6724 StratoAG
 AS6870 RECONNLLC
-AS6939 HurricaneElectric LLC
 AS7203 LeasewebUSA, Inc
 AS7349 TierPoint,LLC
 AS7489 HostUSSolutions LLC
@@ -231,7 +225,6 @@ AS9370 SAKURAInternet Inc
 AS9412 5GNETWORK OPERATIONS PTY LTD
 AS9667 5GNETWORK OPERATIONS PTY LTD
 AS9823 PearsonAustralia Group Pty Ltd
-AS9925 PCCWIMS Limited
 AS10200 TheDigital Lab 2007 Limited
 AS10207 IntervolvePty Ltd
 AS10297 eNETInc
@@ -287,7 +280,6 @@ AS17439 NetMagicSolutions Pvt Ltd
 AS17669 AUSTRALIANCENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD
 AS17881 InetHosting, Inc
 AS17918 AUSTRALIANCENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD
-AS17971 TMNet Sdn Bhd
 AS18120 GeminiSoftware Solutions (P) Limited
 AS18450 WebNX,Inc
 AS18570 EchoStarBroadcasting Corperation
@@ -339,7 +331,6 @@ AS24220 IlluminateInternet Services Pty Ltd
 AS24381 HostLink
 AS24482 SG.GS
 AS24549 LayerstackLimited
-AS24558 AdityaBirla Management Corporation Limited
 AS24611 DatacenterLuxembourg S.A.
 AS24679 HostwayDeutschland GmbH
 AS24725 LLC"Hostmaster"
@@ -387,7 +378,6 @@ AS29302 HostingServices Inc
 AS29311 SolvinityB.V.
 AS29331 ForsikringensDatacenter A/S
 AS29452 SecuraHosting Ltd
-AS29465 MTNNIGERIA Communication limited
 AS29550 SimplyTransit Ltd
 AS29691 NineInternet Solutions AG
 AS29713 ReliableHosting Services
@@ -466,7 +456,6 @@ AS36408 CDNetworksInc
 AS36536 Enterhost
 AS36666 GloboTechCommunications
 AS36791 PortlandInternet Hosting LLC
-AS36873 AirtelNetworks Limited
 AS36887 DIRECTON PC LTD
 AS36920 KKONTechnologies Ltd
 AS36970 IPARTNERSLIMITED
@@ -832,7 +821,6 @@ AS327784 FidelityBank PLC
 AS327813 VIDOLUGroup Pty Ltd-Web4Africa
 AS327942 LANDMARKUNIVERSITY OMU-ARAN
 AS328035 Zeta-webNigeria Limited
-AS393326 EpicGames Inc
 AS394256 TechFutures Interactive Inc
 AS394330 LTDBroadband LLC
 AS394380 LeasewebUSA, Inc
@@ -877,8 +865,6 @@ AS35536 xTom
 AS8888 xTom
 AS3258 xTom
 AS29073 QuasiNetworks
-AS29354 Lattelecom
-AS33491 Lumen Technologies
 AS34233 Superior B.V.
 AS34619 Cizgi Telekomunikasyon
 AS35017 Swiftway Sp. z o.o.
@@ -977,8 +963,6 @@ AS209605 UAB Host Baltic (BtHoster upstream)
 AS48031 Ivanov Vitaliy Sergeevich (spam Russia)
 AS200373 Drei-K-Tech-GmbH (infiniteproxies DDoS source)
 AS216246 Aeza Group Ltd (bulletproof hosting)
-AS41231 Canonical Group Limited
-AS23700 Linknet-Fastnet
 AS36903 MT-MPLS
 AS203380 Redcode Sociedad Anonima
 AS213541 Proxyseller Proxy
@@ -994,7 +978,6 @@ AS202448 MVPS LTD
 AS64249 Akamai Technologies Inc
 AS50835 First Colo GmbH
 AS14956 Webair Internet Development Inc
-AS6698 SITA (Heathrow)
 AS136052 Cloudmatrix Limited
 AS21501 GTHost Inc
 AS60253 IVIT Ltd
