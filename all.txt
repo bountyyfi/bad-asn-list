@@ -558,10 +558,8 @@ AS44050 PetersburgInternet Network ltd.
 AS44066 diva-eDatacenters GmbH
 AS44398 ITRELATION AS
 AS44901 BelcloudLTD
-AS45102 Alibaba(US) Technology Co., Ltd.
 AS45152 ZoneNetworks Pty Ltd
 AS45179 SiteTechSolutions Limited
-AS45187 Rackspace.comHong Kong Limited
 AS45201 NexonAsia Pacific Pty Ltd
 AS45470 8To Infinity Pte Ltd
 AS45481 DigitalSense Hosting Pty Ltd
@@ -676,7 +674,6 @@ AS55536 PacswitchGlobe Telecom Limited
 AS55761 COLOCATIONHOSTING SDN. BHD.
 AS55799 TechAvenueSdn Bhd
 AS55933 CloudieLimited
-AS55967 BeijingBaidu Netcom Science and Technology Co., Ltd.
 AS56106 ZoneNetworks Pty Ltd
 AS56110 EverdataTechnologies Pvt Ltd
 AS56322 ServerAstraKft.
@@ -766,7 +763,6 @@ AS64245 DigitalFyreInternet Solutions, LLC
 AS64484 HexanodeSARL
 AS132070 IntervolvePty Ltd
 AS132071 IntervolvePty Ltd
-AS132225 ChinaTelecom
 AS132425 APCHosting Pte Ltd
 AS132509 DIGIWEBADVANCED HOSTING LIMITED
 AS132717 NxtGenDatacenter & Cloud Technologies Pvt. Ltd.
@@ -851,8 +847,6 @@ AS395089 HextetSystems
 AS395111 KVCHOSTING.COMLLC
 AS395978 SANTACLARA VALLEY WATER DISTRICT PUBLIC FACILITIES FINANCING CORPORATION
 AS212477 RoyaleHosting BV
-AS55990 Huawei Cloud Service data center
-AS45090 Shenzhen Tencent Computer Systems Company Limited
 AS213250 Dominic Scholz trading as ITP-Solutions GmbH & Co. KG (DeinServerHost)
 AS14586 Nuclearfallout Enterprises, Inc.
 AS32374 Nuclearfallout Enterprises, Inc.
@@ -897,7 +891,6 @@ AS34619 Cizgi Telekomunikasyon
 AS35017 Swiftway Sp. z o.o.
 AS35478 Bunea Telecom SRL
 AS37640 CapeConnect
-AS37963 Alibaba Cloud
 AS38478 SunnyVision Limited
 AS44144 HostRoyale Technologies Pvt Ltd
 AS42159 TeleNet LLC
@@ -940,13 +933,6 @@ AS202759 FairyHosting (RJ Network OU)
 AS3920 ESTOXY OU
 AS214503 R0CKET-CLOUD
 AS56655 GIGAHOST
-AS132203 Tencent Global
-AS133478 Tencent Cloud Computing (Beijing) Co., Ltd
-AS136907 Huawei Cloud Hong Kong
-AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.
-AS58519 Cloud Computing Corporation (Alibaba)
-AS45096 Shenzhen Tencent Computer Systems
-AS55967 Beijing Baidu Netcom Science Technology Co., Ltd.
 AS48753 AVA HOST SRL
 AS49282 F-Secure Freedome VPN
 AS213702 Qwins Ltd (bulletproof hosting)
@@ -985,7 +971,6 @@ AS207713 Yuroit LLC (Russia)
 AS43581 Sia VEESP (Russia hosting)
 AS211252 Delis LLC (CrazyRDP bulletproof)
 AS401115 EKABI (CrazyRDP downstream)
-AS401109 Zhongguancun LLC (CrazyRDP downstream)
 AS62212 SmartApe OU (Estonia - FIN7)
 AS42474 SmartApe OU (Estonia)
 AS56694 LLC Smart Ape (Russia)
@@ -1009,13 +994,10 @@ AS213541 Proxyseller Proxy
 AS10036 DLIVE
 AS198100 WAP.AC LTD
 AS23470 ReliableSite.Net LLC
-AS134963 Alibaba Cloud (Singapore) Private Limited
 AS142036 Hosteons Pte. Ltd.
 AS214036 Ultahost, Inc.
-AS152390 Chinanet Jiangsu Province Backbone
 AS210731 Serverion BV
 AS211619 Lucidacloud Limited
-AS138608 Kaopu Cloud HK Limited
 AS210558 1337 Services GmbH
 AS202448 MVPS LTD
 AS64249 Akamai Technologies Inc
@@ -2263,34 +2245,15 @@ AS44677 MTS PJSC (Russia)
 AS40966 L7GUARD Network (Russia)
 AS39337 JSC "Corp Soft" (Russia)
 AS35608 R-LINE 1 LLC (Russia)
-AS9808 China Mobile Communications Group Co., Ltd.
 AS197035 TVIN-INET, LLC
 AS12322 Free SAS
 AS3215 Orange S.A.
 AS31898 Oracle Corporation
-AS4134 CHINANET-BACKBONE
-AS4837 CHINA UNICOM China169 Backbone
-AS4847 China Networks Inter-Exchange
-AS58466 CHINANET Guangdong province network
-AS17621 China Unicom Shanghai network
-AS3462 Data Communication Business Group (Taiwan)
 AS207361 LLC Usergate (Russia)
-AS215672 MoeChuang Network Limited (Hong Kong)
-AS32167 LSHIY LLC (Hong Kong)
-AS137427 KIDC LIMITED (Hong Kong)
-AS401243 Komi LLC (Singapore)
 AS213438 ColocaTel Inc
 AS36884 Wana Corporate
-AS40065 CNSERVERS LLC (Hong Kong)
 AS210976 Timeweb, LLP
 AS399334 Skysilk
-AS4808 China Unicom Beijing Province Network
-AS17633 ASN for Shandong Provincial Net of CT
-AS56046 China Mobile communications corporation
-AS4760 HKT Limited (Hong Kong)
-AS138997 Eons Data Communications Limited (Hong Kong)
-AS152320 GOALNOW NETWORK TECHNOLOGY CO., LIMITED (Hong Kong)
-AS151407 (Hong Kong)
 AS906 DMIT Cloud Services
 AS18403 FPT Telecom Company (Vietnam)
 AS38136 KBRO network (Vietnam)
@@ -2301,7 +2264,6 @@ AS203446 SMARTNET LIMITED
 AS208323 Foundation for Applied Privacy
 AS215125 Church of Cyberology
 AS216475 FDCSERVERS.NET
-AS4538 China Education and Research Network Center
 AS20326 TeraSwitch Networks Inc.
 AS26383 Baxet Group Inc.
 AS26548 PureVoltage Hosting Inc.
@@ -2312,5 +2274,4 @@ AS54600 PEG TECH INC
 AS56971 AS56971 Cloud
 AS59211 OneAsiaHost
 AS62005 BlueVPS OU
-AS137266 CHINATELECOM Hubei province Wuhan 5G network
 AS200651 FlokiNET ehf
