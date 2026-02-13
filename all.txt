@@ -2228,3 +2228,4 @@ AS62005 BlueVPS OU
 AS200651 FlokiNET ehf
 AS42772 AS42772
 AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
+AS40934 Fortinet India
