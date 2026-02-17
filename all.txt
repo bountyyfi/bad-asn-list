@@ -2219,7 +2219,6 @@ AS20326 TeraSwitch Networks Inc.
 AS26383 Baxet Group Inc.
 AS26548 PureVoltage Hosting Inc.
 AS42910 PremierDC Veri Merkezi Anonim Sirketi
-AS44486 Oliver Horscht is trading as "SYNLINQ"
 AS49791 Newserverlife LLC
 AS54600 PEG TECH INC
 AS56971 AS56971 Cloud
