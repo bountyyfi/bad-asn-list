@@ -2229,3 +2229,5 @@ AS42772 AS42772
 AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
 AS40934 Fortinet India
 AS133982 Excitel Broadband Private Limited
+AS138718 Ekowebtech
+AS4758 National Internet Exchange of India
