@@ -2231,3 +2231,4 @@ AS40934 Fortinet India
 AS133982 Excitel Broadband Private Limited
 AS138718 Ekowebtech
 AS4758 National Internet Exchange of India
+AS55836 Reliance Jio Infocomm Limited
